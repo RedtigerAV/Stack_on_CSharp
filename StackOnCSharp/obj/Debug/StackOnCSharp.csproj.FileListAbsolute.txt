@@ -1,0 +1,6 @@
+C:\Users\Антон\Desktop\УЧЕБА\Самообучение\StackOnCSharp\StackOnCSharp\bin\Debug\StackOnCSharp.exe.config
+C:\Users\Антон\Desktop\УЧЕБА\Самообучение\StackOnCSharp\StackOnCSharp\bin\Debug\StackOnCSharp.exe
+C:\Users\Антон\Desktop\УЧЕБА\Самообучение\StackOnCSharp\StackOnCSharp\bin\Debug\StackOnCSharp.pdb
+C:\Users\Антон\Desktop\УЧЕБА\Самообучение\StackOnCSharp\StackOnCSharp\obj\Debug\StackOnCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Desktop\УЧЕБА\Самообучение\StackOnCSharp\StackOnCSharp\obj\Debug\StackOnCSharp.exe
+C:\Users\Антон\Desktop\УЧЕБА\Самообучение\StackOnCSharp\StackOnCSharp\obj\Debug\StackOnCSharp.pdb
